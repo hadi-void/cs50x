@@ -1,0 +1,2 @@
+# cs50x
+Solutions to Harvard's CS50x
